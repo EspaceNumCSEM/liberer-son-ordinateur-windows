@@ -7,7 +7,7 @@ in_menu: true
 
 Avec cette sélection, vous n'aurez pas à changer vos habitudes : **vous pourrez faire la même chose qu'avant !** La différence, c'est que les logiciels listés ici sont des **logiciels libres**. C'est-à-dire des logiciels conçus par des humains pour des humains, de manière transparente et sécurisée, qui respectent leurs utilisateurs et qui sont souvent gratuits, tous ceux de cette liste le sont.
 
-*De plus, ces logiciels sont plus "légers", c'est-à-dire qu'ils fonctionnent très bien même sur de *vieux* ordinateurs !*
+*De plus, ces logiciels sont plus "légers", c'est-à-dire qu'ils fonctionnent très bien même sur de "vieux" ordinateurs !*
 
 ## Internet
 
