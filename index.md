@@ -3,7 +3,7 @@ title: "Les logiciels libres à la rescousse de votre ordinateur et de votre vie
 order: 0
 in_menu: true
 ---
-Si votre vision du numérique aujourd'hui est celle d'un enfer déshumanisant qui vous étouffe, vous espionne et détruit la planète, alors cette liste de logiciels est pour vous !
+**Si votre vision du numérique aujourd'hui est celle d'un enfer déshumanisant qui vous étouffe, vous espionne et détruit la planète, alors cette liste de logiciels est pour vous !**
 
 Avec cette sélection, vous n'aurez pas à changer vos habitudes : **vous pourrez faire la même chose qu'avant !** La différence, c'est que les logiciels listés ici sont des **logiciels libres**. C'est-à-dire des logiciels conçus par des humains pour des humains, de manière transparente et sécurisée, qui respectent leurs utilisateurs et qui sont souvent gratuits, tous ceux de cette liste le sont.
 
