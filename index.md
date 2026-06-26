@@ -7,7 +7,7 @@ in_menu: true
 
 Si votre vision du numérique aujourd'hui est celle d'un enfer qui vous étouffe et détruit la planète, alors cette liste de logiciels est pour vous !
 
-Avec cette sélection, vous n'aurez pas à changer vos habitudes : **vous pourrez faire la même chose qu'avant !** La différence, c'est que les logiciels listés ici sont des **logiciels libres**. C'est-à-dire des logiciels (souvent gratuits) conçus par des humains pour des humains, de manière transparente et sécurisée, qui respectent leurs utilisateurs.
+Avec cette sélection, vous n'aurez pas à changer vos habitudes : **vous pourrez faire la même chose qu'avant !** La différence, c'est que les logiciels listés ici sont des **logiciels libres**. C'est-à-dire des logiciels conçus par des humains pour des humains, de manière transparente et sécurisée, qui respectent leurs utilisateurs et qui sont souvent gratuits.
 
 **De plus, ces logiciels sont plus "légers", c'est-à-dire qu'ils fonctionnent très bien même sur de *vieux* ordinateurs !**
 
@@ -15,7 +15,7 @@ Avec cette sélection, vous n'aurez pas à changer vos habitudes : **vous pourre
 
 Si vous avez un ordinateur aujourd'hui, c'est sans aucun doute pour aller sur Internet. Voici donc une sélection de logiciels et d'extensions pour rester en sécurité et en profiter !
 
-*En plus, Firefox peut lire, modifier et imprimer vos PDF sans soucis : plus besoin d'Adobe Acrobat !*
+*En plus, Firefox peut lire, modifier et imprimer vos PDF sans soucis : plus besoin d'Adobe Acrobat ou autres!*
 
 <article class="framalibre-notice">
     <div>
@@ -47,7 +47,7 @@ Si vous avez un ordinateur aujourd'hui, c'est sans aucun doute pour aller sur In
 
 ## Multimédia
 
-Dans le monde numérique, les musiques, photos et vidéos sont stockées dans des **formats** spécifiques et vous en connaissez sûrement certains : JPG ou JPEG pour les photos, MP4 pour la vidéo, MP3 pour la musique, etc. **Il en existe beaucoup et de nouveaux sont régulièrement inventés.** Pourtant, les applications de base de Windows ne peuvent pas tous les lire. Par exemple, pour afficher des photos au format HEIC (le format standard des smartphones modernes), il faut souvent acheter une extension à 1 € !
+Dans le monde numérique, les musiques, photos et vidéos sont stockées dans des **formats** spécifiques et vous en connaissez sûrement certains : JPG ou JPEG pour les photos, MP4 pour la vidéo, MP3 pour la musique, etc. **Il en existe beaucoup et de nouveaux sont régulièrement inventés.** Pourtant, les applications de base de Windows ne peuvent pas tous les lire. Par exemple, pour afficher des photos au format HEIC (le format standard des smartphones modernes), [il faut acheter une extension à 1 €](https://apps.microsoft.com/detail/9nmzlz57r3t7?hl=fr-FR&gl=FR) !
 
 *Avoir des logiciels capables de tout lire, légalement et sans sortir la carte bleue, permet d'éviter les migraines et les accès de rage !*
 
